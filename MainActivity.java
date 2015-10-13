@@ -1,4 +1,4 @@
-package com.example.alex.sneaker1
+package com.example.alex.sneaker1;
 
 import android.content.Intent;
 import android.os.Bundle;
